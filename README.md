@@ -10,3 +10,5 @@ veja esse exemplo:
 - ADAM site para a empresa da sabrina  https://franciscogomes2020.github.io/ADAM/
 
 note que estou colocando as pastas raiz dos repositorios no final da url porque sei que lá tem um arquivo index.html
+
+``` Não se esqueça de habilitar o branch para o git pages nas configurações do repositorio```
